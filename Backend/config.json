@@ -1,0 +1,4 @@
+{
+    "DB_URL": "mongodb://localhost:27017/school",
+    "PRIVATE_KEY": "PRIVATE ACCESS KEY FOR MY PROGRAM"
+}
